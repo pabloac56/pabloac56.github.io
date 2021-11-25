@@ -1,0 +1,18 @@
+h3{
+    background: rgb(247, 179, 76);
+    color: green;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: light;
+}
+*{
+    background-color: rgb(247, 179, 76) ;
+}
+nav { border-width: 2px; border-style: solid; border-color: rgb(8, 1, 1); }
+nav li {
+    background: rgb(255, 3, 3);
+    color: rgb(2, 13, 29);
+    font-family: futura;
+    font-size: 16px;
+    font-weight: bolder;
+    }
